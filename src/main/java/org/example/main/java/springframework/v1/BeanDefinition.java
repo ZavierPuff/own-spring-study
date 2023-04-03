@@ -2,7 +2,7 @@
  * Copyright(c) 2022 Wyze Labs, All Rights Reserved.
  */
 
-package v1;
+package org.example.main.java.springframework.v1;
 
 /**
  * @Author: Meng

@@ -1,4 +1,4 @@
-package v2.config;
+package org.example.main.java.springframework.v2.config;
 
 /**
  * @Author: Meng

@@ -2,9 +2,9 @@
  * Copyright(c) 2022 Wyze Labs, All Rights Reserved.
  */
 
-package v2.support;
+package org.example.main.java.springframework.v2.support;
 
-import v2.config.SingletonBeanRegistry;
+import org.example.main.java.springframework.v2.config.SingletonBeanRegistry;
 
 import java.util.HashMap;
 import java.util.Map;
